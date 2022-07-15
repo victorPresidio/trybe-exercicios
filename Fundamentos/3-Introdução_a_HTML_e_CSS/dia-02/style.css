@@ -1,0 +1,33 @@
+
+        h1 {
+            font-size: 65px;
+            color: orange;
+            font-family: sans-serif;
+            font-style: oblique;
+            text-align: center;
+        }
+        ul {
+            line-height: 30px;
+        }
+        .background_p {
+            background-color: gray;
+        }
+        p {
+            font-weight: 600;
+            font-size: 3em;
+            text-decoration: line-through
+        }
+        body{
+            font-size: 16px;
+        }
+
+        #amarelo{
+            background-color: yellow;
+        }
+        #vermelho{
+            background-color: red;
+        }
+        #marrom{
+            background-color: brown;
+        }
+    
