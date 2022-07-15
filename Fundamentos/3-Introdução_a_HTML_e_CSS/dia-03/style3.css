@@ -1,0 +1,13 @@
+h1, p{
+    text-align: center;
+    transition: all;
+}
+li:hover{
+    background-color: green;
+}
+li:active{
+    font-family: monospace
+}
+ul, ol{
+    list-style: none;
+}
