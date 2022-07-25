@@ -6,5 +6,8 @@ let info = {
   //console.log('Bem-vinda,', info.personagem)
   //exercicio 2
   info.recorrente = 'Sim'
-  console.log(info)
-  
+  //console.log(info)
+  //exercicio 3
+  for(let key in info){
+    console.log(key)
+  }
