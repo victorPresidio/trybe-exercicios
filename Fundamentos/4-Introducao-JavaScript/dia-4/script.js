@@ -8,6 +8,9 @@ let info = {
   info.recorrente = 'Sim'
   //console.log(info)
   //exercicio 3
-  for(let key in info){
-    console.log(key)
+  //for(let key in info){
+  //console.log(key)}
+  //exercicio 4
+  for(let properties in info) {
+    console.log(info[properties])
   }
